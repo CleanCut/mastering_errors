@@ -6,8 +6,8 @@ In other words, this repository is for you hands-on-learners!
 
 I use macOS, and that is what I developed this course on.  Everything _ought_ to work similarly on major Linux distributions and Windows. Please [contact me](mailto:nathan@agileperception.com) ASAP if you have trouble with anything on this page.
 
-- _Just getting started with Rust? Check out the prerequisite for this course: **Ultimate Rust Crash Course** [at Ardan Labs]_
-- _Want more? Get the entire **Ultimate Rust 2: Intermediate Concepts** course [at Ardan Labs]_
+- _Just getting started with Rust? Check out the prerequisite for this course: **[Ultimate Rust Crash Course]** at Ardan Labs_
+- _Want more? Get the entire **[Ultimate Rust 2: Intermediate Concepts]** course at Ardan Labs_
 
 ## Install Rust & Prepare Your Development Environment
 
@@ -35,7 +35,8 @@ See [license/APACHE](license/APACHE) and [license/MIT](license/MIT).
 
 If you like the work I do, please consider sponsoring me [on GitHub] or [on Patreon]. 💖
 
-[Ardan Labs]: https://www.ardanlabs.com/training/self-paced/individuals/bundles/rust/
+[Ultimate Rust Crash Course]: https://www.ardanlabs.com/training/self-paced/individuals/bundles/rust/
+[Ultimate Rust 2: Intermediate Concepts]: https://www.ardanlabs.com/training/self-paced/individuals/bundles/rust/
 [Ultimate Rust 2]: https://github.com/CleanCut/ultimate_rust2
 [on GitHub]: https://github.com/sponsors/CleanCut
 [on Patreon]: https://patreon.com/nathanstocks
