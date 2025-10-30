@@ -11,11 +11,13 @@ I use macOS, and that is what I developed this course on.  Everything _ought_ to
 
 ## Install Rust & Prepare Your Development Environment
 
-Rust is required for this course!  The latest stable version is always recommended. See [the repository for the previous course] for instructions on how to install Rust, prepare your development environment, and helpful resources.
+Rust is required for this course!  The latest stable version is always recommended. See [the crash course readme] for instructions on how to install Rust, prepare your development environment, and helpful resources.
 
 ## Exercise
 
-Please clone this repository! This exercise is designed as a Rust project for you to edit on your own computer.
+- Please clone this repository! This exercise is designed as a Rust project for you to edit on your own computer.
+- Open your local copy of this directory in your favorite IDE or editor
+- Open up [`src/lib.rs`](src/lib.rs) and follow the instructions at the top of the file.
 
 ## Extra Resources
 
@@ -41,3 +43,4 @@ If you like the work I do, please consider sponsoring me [on GitHub] or [on Patr
 [on GitHub]: https://github.com/sponsors/CleanCut
 [on Patreon]: https://patreon.com/nathanstocks
 [Error Handling Isn't All About Errors]: https://www.youtube.com/watch?v=rAF8mLI0naQ
+[the crash course readme]: https://github.com/cleancut/ultimate_rust_crash_course?tab=readme-ov-file#install-rust
